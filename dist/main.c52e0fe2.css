@@ -274,10 +274,10 @@ body{
   background:radial-gradient(circle farthest-side at 50% 250%,#65ffcc,#ffffff);
 }
 #parallax__cont .pin-spacer:nth-of-type(4) #section{
-  background:radial-gradient(circle farthest-side at 50% 250%,#72ffbd,#ffffff);
+  background:radial-gradient(circle farthest-side at 50% 250%,#72ff91,#ffffff);
 }
 #parallax__cont .pin-spacer:nth-of-type(5) #section{
-  background:radial-gradient(circle farthest-side at 50% 250%,#fffd7e,#ffffff);
+  background:radial-gradient(circle farthest-side at 50% 250%,#82ff7e,#ffffff);
 }
 #parallax__cont h3{
   font-size:50px;
